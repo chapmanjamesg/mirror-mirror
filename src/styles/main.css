@@ -1,0 +1,12 @@
+.twix {
+    display: flex;
+    flex-direction: horizontal;
+}
+#right-twix{
+    border: 1px solid blue;
+    width: 50%;
+}
+#left-twix{
+    border: 1px solid red;
+    width: 50%;
+}
